@@ -1,0 +1,21 @@
+{
+  "main.css": "./static/css/main.d12ba069.chunk.css",
+  "main.js": "./static/js/main.6e1447c6.chunk.js",
+  "main.js.map": "./static/js/main.6e1447c6.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+  "static/css/2.4721981e.chunk.css": "./static/css/2.4721981e.chunk.css",
+  "static/js/2.dbece616.chunk.js": "./static/js/2.dbece616.chunk.js",
+  "static/js/2.dbece616.chunk.js.map": "./static/js/2.dbece616.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.ee85d79aff77c526d70bd3410b3beeb9.js": "./precache-manifest.ee85d79aff77c526d70bd3410b3beeb9.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/2.4721981e.chunk.css.map": "./static/css/2.4721981e.chunk.css.map",
+  "static/css/main.d12ba069.chunk.css.map": "./static/css/main.d12ba069.chunk.css.map",
+  "static/media/Disks-Icon.99d2badf.svg": "./static/media/Disks-Icon.99d2badf.svg",
+  "static/media/Wizard-Icon.eec34623.svg": "./static/media/Wizard-Icon.eec34623.svg",
+  "static/media/hard-disk.4d9423f6.svg": "./static/media/hard-disk.4d9423f6.svg",
+  "static/media/process-list.9b4646bd.svg": "./static/media/process-list.9b4646bd.svg",
+  "static/media/index.css": "./static/media/roboto-latin-900italic.ebf6d164.woff2",
+  "static/media/w3top-3.89a63304.svg": "./static/media/w3top-3.89a63304.svg"
+}
